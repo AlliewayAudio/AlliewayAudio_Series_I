@@ -1,2 +1,2 @@
 # AlliewayAudio_Series_I
-Documentation / License for Allieway Audio Series I VCV Modules
+Documentation / License for Allieway Audio Series I of VCV Modules
