@@ -1,5 +1,5 @@
 2.0.4: Official release, introducing 3 of the 5 modules that will be in this series: KOAN, BUMPER, and CARTOON RUNNING!
 
-2.0.41: Minor update to Koan front-panel to make normalled connection from encoder output to decoder input more obvious :)
+2.0.4.1: Minor update to Koan front-panel to make normalled connection from encoder output to decoder input more obvious :)
 
 2.0.5: Minor bugfixes, update to fix linux graphics. Some additional quality of life changes coming soon, and modules 4 and 5 are in the works (as well as another special surprise!)
