@@ -3,3 +3,5 @@
 2.0.4.1: Minor update to Koan front-panel to make normalled connection from encoder output to decoder input more obvious :)
 
 2.0.5: Minor bugfixes, update to fix linux graphics. Some additional quality of life changes coming soon, and modules 4 and 5 are in the works (as well as another special surprise!)
+
+2.0.5.2f61e33: User-requested feature added to Bumper - bump size scaling. It’s been added as a right-click menu option (underneath “Bump Polarity”), allowing you to choose between the original behavior (default) and the bump sizes being scaled based on boundaries. 
